@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/ninjablocks/node-zigbee",
   "dependencies": {
-    "serialport": "2.1.2",
+    "serialport": "3.1.2",
     "concentrate": "0.2.2",
     "dissolve": "0.3.3",
     "async": "0.2.10",
